@@ -1,4 +1,6 @@
-# Sistema de Autenticação em PHP POO
+# Leandro Bertocchi - Ciências da Computação Campus - São Miguel do Oeste
+
+## Sistema de Autenticação em PHP POO
 
 Este é um sistema simples de autenticação de usuários desenvolvido em PHP puro utilizando Programação Orientada a Objetos.
 
