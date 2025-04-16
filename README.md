@@ -16,3 +16,10 @@ Este é um sistema simples de autenticação de usuários desenvolvido em PHP pu
 
 - PHP 7.0 ou superior
 - Extensão session ativada
+
+## Instalação
+
+1. Clone o repositório ou faça o download dos arquivos
+2. Coloque os arquivos em um servidor web com suporte a PHP
+3. Acesse o sistema através do arquivo `login.php`
+
